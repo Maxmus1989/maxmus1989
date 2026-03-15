@@ -10,51 +10,44 @@ Currently working within the Qantas Group on the Qantas Hotels and Holidays acco
 
 ## Engineering Focus
 
-Frontend architecture  
+**Frontend architecture**  
 React applications and shared UI component libraries
 
-Backend services  
+**Backend services**  
 Node.js and Ruby services, GraphQL APIs and microservice architectures
 
-Cloud infrastructure  
+**Cloud infrastructure**  
 AWS platform design using Terraform and containerised workloads
 
-Developer platforms  
+**Developer platforms**  
 CI/CD workflows, automated testing and engineering tooling
 
-Data integration  
+**Data integration**  
 Operational data pipelines and ETL processes into enterprise data warehouses
 
 ---
 
 ## Technology
 
-**Frontend**
-
+**Frontend**  
 React, AngularJS, EmberJS, Redux, Storybook
 
-**Backend**
-
+**Backend**  
 Node.js, Ruby, GraphQL, Spring Boot
 
-**Cloud**
-
+**Cloud**  
 AWS (ECS, Lambda, EC2, S3, CloudFront)
 
-**Infrastructure**
-
+**Infrastructure**  
 Terraform, Docker
 
-**CI/CD**
-
+**CI/CD**  
 Buildkite, GitHub Actions, Jenkins
 
-**Messaging**
-
+**Messaging**  
 RabbitMQ, AWS SQS
 
-**Data**
-
+**Data**  
 PostgreSQL, MongoDB, CouchDB
 
 ---
@@ -75,9 +68,6 @@ I enjoy exploring ideas around:
 
 LinkedIn  
 https://linkedin.com/in/choong-teik-tan
-
-GitHub  
-https://github.com/maxmus1989
 
 Website  
 https://maxmus.me
