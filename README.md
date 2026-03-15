@@ -1,16 +1,83 @@
-## Hi there 👋
+# Choong Teik Tan
 
-<!--
-**Maxmus1989/maxmus1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Software Engineer based in Melbourne, Australia.
 
-Here are some ideas to get you started:
+I work across frontend platforms, backend services and cloud infrastructure. Most of my recent work focuses on React applications, Node.js and Ruby services, AWS infrastructure and CI/CD platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working within the Qantas Group on the Qantas Hotels and Holidays accommodation platform.
+
+---
+
+## Engineering Focus
+
+Frontend architecture  
+React applications and shared UI component libraries
+
+Backend services  
+Node.js and Ruby services, GraphQL APIs and microservice architectures
+
+Cloud infrastructure  
+AWS platform design using Terraform and containerised workloads
+
+Developer platforms  
+CI/CD workflows, automated testing and engineering tooling
+
+Data integration  
+Operational data pipelines and ETL processes into enterprise data warehouses
+
+---
+
+## Technology
+
+**Frontend**
+
+React, AngularJS, EmberJS, Redux, Storybook
+
+**Backend**
+
+Node.js, Ruby, GraphQL, Spring Boot
+
+**Cloud**
+
+AWS (ECS, Lambda, EC2, S3, CloudFront)
+
+**Infrastructure**
+
+Terraform, Docker
+
+**CI/CD**
+
+Buildkite, GitHub Actions, Jenkins
+
+**Messaging**
+
+RabbitMQ, AWS SQS
+
+**Data**
+
+PostgreSQL, MongoDB, CouchDB
+
+---
+
+## Interests
+
+I enjoy exploring ideas around:
+
+- developer platforms
+- infrastructure as code
+- distributed systems
+- frontend architecture
+- engineering productivity
+
+---
+
+## Links
+
+LinkedIn  
+https://linkedin.com/in/choong-teik-tan
+
+GitHub  
+https://github.com/maxmus1989
+
+Website  
+https://maxmus.me
